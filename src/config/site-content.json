@@ -1,8 +1,8 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索、笔记。前端 UI 更新代码仓库。",
-		"username": "Suni"
+		"title": " Тихий Омут's blog",
+		"description": "Тихий Омут 的个人博客，记录前端开发、探索、笔记。Minecraft插件 更新代码仓库。",
+		"username": "Borisy"
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -44,21 +44,21 @@
 		{
 			"id": "github",
 			"type": "github",
-			"value": "https://github.com/yysuni",
+			"value": "https://github.com/SoftOSDev",
 			"label": "Github",
 			"order": 3
 		},
 		{
 			"id": "juejin",
 			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"value": "https://space.bilibili.com/3493107611994568",
+			"label": "哔哩哔哩",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "hxh7197@gmail.com",
 			"label": "",
 			"order": 1
 		}
